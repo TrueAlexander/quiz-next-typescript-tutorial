@@ -1,4 +1,4 @@
-// File: /Users/weibenfalk/Desktop/react-quiz-2023-start-here/app/layout.tsx
+// File: C:\AllDocuments\Alexander\Программирование\Projects\2023\quiz-next-typescript-tutorial\react-quiz-2023\react-quiz-2023-start-here\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

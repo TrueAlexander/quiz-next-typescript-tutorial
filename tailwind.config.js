@@ -11,5 +11,12 @@ module.exports = {
     // Or if using `src` directory:
     './src/**/*.{js,ts,jsx,tsx}'
   ],
+  theme: {
+    extend: {
+      fontFamily: {
+        quicksand: ['var(--font-quicksand)', ...fontFamily.sans]
+      }
+    }
+  },
   plugins: []
 };

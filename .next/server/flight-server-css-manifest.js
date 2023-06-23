@@ -1,6 +1,18 @@
 self.__RSC_CSS_MANIFEST={
-  "cssImports": {},
+  "cssImports": {
+    "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\app\\layout.tsx": [
+      "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}",
+      "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\app\\globals.css"
+    ]
+  },
   "cssModules": {
-    "/Users/weibenfalk/Desktop/react-quiz-2023-start-here/app/page": []
+    "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\app\\page": [
+      "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\app\\globals.css",
+      "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
+    ],
+    "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\app\\quiz\\page": [
+      "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\app\\globals.css",
+      "C:\\AllDocuments\\Alexander\\Программирование\\Projects\\2023\\quiz-next-typescript-tutorial\\react-quiz-2023\\react-quiz-2023-start-here\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Quicksand\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-quicksand\"}],\"variableName\":\"quicksand\"}"
+    ]
   }
 }
